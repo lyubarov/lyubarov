@@ -15,6 +15,52 @@ I'm an experienced JavaScript/TypeScript Developer with 5+ years of hands-on exp
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+💼 Work Experience
+Full Stack JavaScript Developer | Freelance (2024 – Present)
+
+Developed full-stack web applications using React, Node.js, and Express
+
+Built RESTful and GraphQL APIs for SaaS and e-commerce platforms
+
+Created mobile apps with React Native, integrating push notifications and device features
+
+Automated data flows and integrated third-party APIs (Stripe, Google Maps, Twilio)
+
+Senior JavaScript Developer | Upwork
+April 2020 - Present
+
+Led the development of scalable applications using React (w/ Redux, Hooks) and Node.js (NestJS/Express)
+
+Designed and optimized relational (PostgreSQL) and NoSQL (MongoDB) data models
+
+Integrated authentication using JWT, OAuth2, and third-party providers (Google, Facebook)
+
+Managed CI/CD pipelines and deployed containerized apps using Docker, AWS EC2, and S3
+
+Mentored junior developers and conducted code reviews for best practices
+
+JavaScript Developer | CodeCraft 
+March 2018 - July 2020
+
+Built and maintained backend services using Express.js and frontend interfaces with React.js
+
+Improved performance of APIs and frontend components
+
+Worked with cloud services (AWS, Firebase) to ensure scalability and uptime
+
+Contributed to cross-platform mobile development using React Native
+
+🔥 Skills & Expertise
+Languages: JavaScript, TypeScript, Python
+Frontend: React, React Native, Redux, Tailwind, Material UI
+Backend: Node.js, Express, NestJS
+APIs & Integrations: REST, GraphQL, Stripe, Twilio, Google Maps
+Databases: PostgreSQL, MongoDB, MySQL, Redis
+DevOps & Cloud: Docker, AWS (EC2, S3), CI/CD (GitHub Actions, GitLab CI)
+Security: JWT, OAuth2, HTTPS/SSL, input validation, protection against SQLi, XSS, CSRF
+Tools: GitHub, GitLab, Jira, Trello, Bitbucket, VSCode
+Languages: English (B2), Ukrainian (Native)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=lyubarov&icon=0&color=0)](https://visitcount.itsvg.in)
 
